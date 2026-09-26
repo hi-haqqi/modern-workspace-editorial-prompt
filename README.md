@@ -1,5 +1,9 @@
 # Modern Workspace Editorial Prompt
 
+<p align="center">
+  <img src="./assets/workspace.jpg" alt="Modern Workspace Editorial — visual highlight" width="100%" />
+</p>
+
 > A reusable prompt system for generating realistic, contemporary editorial workspace photography with premium furniture-campaign aesthetics.
 
 [![Prompt](https://img.shields.io/badge/type-image%20generation-111111)](./prompts/modern-workspace-editorial.md)
